@@ -1272,12 +1272,12 @@ StScrollBar {
 
 .show-apps .overview-icon {
   padding: 11px;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.0);
   border-radius: 2px;
   border: 0px solid; }
 
 .show-apps:hover .overview-icon {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.0);
   color: #5294E2; }
 
 .show-apps:active .overview-icon,
